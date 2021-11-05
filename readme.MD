@@ -1,6 +1,6 @@
 # Redash
 
-## Простая установка:
+## Простая установка
 
 1. docker-compose run --rm server create_db
 
